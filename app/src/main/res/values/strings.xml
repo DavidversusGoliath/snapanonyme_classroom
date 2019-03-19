@@ -7,4 +7,6 @@
     <string name="publish_a_snap">Publish_a_snap</string>
     <string name="publish_button_label">Publish</string>
     <string name="title_activity_snap_list">SnapListActivity</string>
+    <string name="snap_action_comment_info_sample">34K</string>
+    <string name="snap_info_sample">20 yard away</string>
 </resources>
